@@ -1,0 +1,92 @@
+[
+    {
+        "Name": "Mohit",
+        "customerId": 178761811,
+        "AGE": 21,
+        "sex": "M",
+        "adress1": "Rz-19 ,New Roshan Pura -110043"
+    },
+    {
+        "Name": "Sushant",
+        "customerId": 34393652,
+        "AGE": 22,
+        "sex": "M",
+        "adress1": ""
+    },
+    {
+        "Name": "Bhanu",
+        "customerId": 29853870,
+        "AGE": 17,
+        "sex": "M",
+        "adress1": "B-123,Yamuna nagar"
+    },
+    {
+        "Name": "Nikhil",
+        "customerId": 17802176,
+        "AGE": 30,
+        "sex": "M",
+        "adress1": "B-123,Delhi nagar"
+    },
+    {
+        "Name": "Vikas",
+        "customerId": 5752872,
+        "AGE": 50,
+        "sex": "M",
+        "adress1": "B1-123,Tata nagar"
+    },
+    {
+        "Name": "Parvina",
+        "customerId": 5365208,
+        "AGE": 32,
+        "sex": "F",
+        "adress1": "B12-123,TST nagar"
+    },
+    {
+        "Name": "Gaurav",
+        "customerId": 5299215,
+        "AGE": 31,
+        "sex": "M",
+        "adress1": "B-123,MARUTI nagar"
+    },
+    {
+        "Name": "Amita",
+        "customerId": 4620968,
+        "AGE": 22,
+        "sex": "F",
+        "adress1": ""
+    },
+    {
+        "Name": "Yash",
+        "customerId": 4252095,
+        "AGE": 19,
+        "sex": "M",
+        "adress1": ""
+    },
+    {
+        "Name": "Shrey",
+        "customerId": 4242763,
+        "AGE": 40,
+        "sex": "F",
+        "adress1": ""
+    },
+    {
+        "Name": "Cheena",
+        "customerId": 3888614,
+        "AGE": 30,
+        "sex": "M",
+        "adress1": ""
+    },
+    {
+        "Name": "Jitu",
+        "customerId": 3757442,
+        "AGE": 50,
+        "sex": "M",
+        "adress1": "A-123,East Patel nagar"
+    },  {
+        "Name": "Sushana",
+        "customerId": 375732442,
+        "AGE": 32,
+        "sex": "F",
+        "adress1": "A-1263,East Patel nagar"
+    }
+]
